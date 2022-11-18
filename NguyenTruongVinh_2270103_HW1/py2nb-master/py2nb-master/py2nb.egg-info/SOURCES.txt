@@ -1,0 +1,11 @@
+README.md
+setup.py
+py2nb/__init__.py
+py2nb/__main__.py
+py2nb/converter.py
+py2nb/reader.py
+py2nb/tools.py
+py2nb.egg-info/PKG-INFO
+py2nb.egg-info/SOURCES.txt
+py2nb.egg-info/dependency_links.txt
+py2nb.egg-info/top_level.txt
